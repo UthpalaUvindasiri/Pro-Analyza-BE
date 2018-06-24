@@ -1,0 +1,57 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/yasson-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jsr250-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/cdi-api-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/hk2-utils-2.5.0-b36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.eclipse.equinox.common_3.5.1.R35x_v20090807-1100.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/persistence-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/osgi-resource-locator-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-hk2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-media-json-binding.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jaxb-api-2.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.apache.commons.io_2.2.0.v201405211200.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/javax.json.bind-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/javax.ws.rs-api-2.1-m09.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.eclipse.core.resources_3.5.2.R35x_v20091203-1235.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/javassist-3.20.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/aopalliance-repackaged-2.5.0-b36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-container-servlet-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-configuration-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/hk2-api-2.5.0-b36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.osgi.core-4.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/com.google.gson_2.2.4.v201311231704.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-media-sse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.eclipse.core.jobs_3.4.100.v20090429-1800.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.eclipse.core.runtime_3.5.0.v20090525.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.eclipse.text_3.5.400.v20150505-1044.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/hk2-locator-2.5.0-b36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-container-servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.eclipse.equinox.preferences_3.2.301.R35x_v20091117.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.eclipse.jdt.core_3.5.2.v_981_R35x.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/javax.inject-2.5.0-b36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-media-jaxb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/javax.json-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.eclipse.osgi_3.5.2.R35x_v20100126.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/javax.json-api-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.eclipse.core.contenttype_3.4.1.R35x_v20090826-0451.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/el-api-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
